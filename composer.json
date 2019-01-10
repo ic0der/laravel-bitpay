@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^5.6",
         "bitpay/php-client": "~2.2"
     },
     "require-dev": {
